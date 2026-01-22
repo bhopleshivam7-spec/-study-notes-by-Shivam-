@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  background: #007bff;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
